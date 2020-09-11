@@ -4,11 +4,14 @@
     box-sizing: border-box;
 
 
+
 }
 
 body {
     width: auto;
     background: #000;
+   
+  
   
 }
 
@@ -19,6 +22,7 @@ header img {
     left: 0;
     width: 200px;
     height: 200px;
+    
 
 }
 
